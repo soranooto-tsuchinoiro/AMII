@@ -2,6 +2,16 @@
 
 # AMII Changelog
 
+## [1.6.1]
+
+### update
+
+修改配置文件，升级适配idea2025.3.1.1，主要涉及修改的文件：
+
+- gradle.properties
+- gradle-wrapper.properties
+- libs.versions.toml
+
 ## [1.5.0]
 
 ### Added
