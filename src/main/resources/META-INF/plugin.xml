@@ -2,7 +2,7 @@
   <id>io.unthrottled.amii</id>
   <name>Anime Memes</name>
   <vendor>Unthrottled</vendor>
-  <idea-version since-build="251"/>
+  <idea-version since-build="262" until-build="262.*"/>
   <description>
     Give your IDE more personality and have &lt;emphasis&gt;more&lt;/emphasis&gt; fun programming with the Anime Meme IDE
     Integration! (AMII)&lt;br/&gt;&lt;br/&gt;

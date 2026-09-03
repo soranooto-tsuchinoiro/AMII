@@ -2,6 +2,12 @@
 
 # AMII Changelog
 
+## [1.6.0.2]
+
+### update
+
+升级构建配置，适配 IntelliJ IDEA 2026.2.1（262.*），并将构建环境升级为 JDK 25、Gradle 9.1.0。
+
 ## [1.6.1]
 
 ### update
